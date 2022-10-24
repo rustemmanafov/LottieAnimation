@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "lottiefiles-logo-5622688-4674917-2.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
